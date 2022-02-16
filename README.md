@@ -7,13 +7,13 @@
 </br>
 
 ## Github Stats-
-[![Gursimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Creator-singh&theme=dark&show_icons=true)](https://github.com/Creator-singh/github-readme-stats)
+[![Gursimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Creator-singh&theme=dark&show_icons=true)](https://github.com/Creator-singh/)
 
 </br>
 
 ## 📌Repository-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creator-singh&repo=Webit-store&show_owner=true&theme=dark)](https://github.com/Creator-singh/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creator-singh&repo=webit-component-library&show_owner=true&theme=dark)](https://github.com/Creator-singh/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creator-singh&repo=Webit-store&show_owner=true&theme=dark)](https://github.com/Creator-singh/Webit-store)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creator-singh&repo=webit-component-library&show_owner=true&theme=dark)](https://github.com/Creator-singh/webit-component-library)
 
 </br>
 
