@@ -1,16 +1,28 @@
 ## Hey! I'm Gursimar Singh. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 </br>
 
-- 🌱 I’m currently learning **Web Development**
-</br>
+- 🚀 I’m currently learning **Web Development** with [**@neogcamp**](https://neog.camp/)
+
 </br>
 
 ## Github Stats-
 [![Gursimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Creator-singh&theme=dark&show_icons=true)](https://github.com/Creator-singh/github-readme-stats)
 
+</br>
+
 ## 📌Repository-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creator-singh&repo=Webit-store&show_owner=true&theme=dark)](https://github.com/Creator-singh/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creator-singh&repo=webit-component-library&show_owner=true&theme=dark)](https://github.com/Creator-singh/github-readme-stats)
 
+</br>
+
 ## Most used Language-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Creator-singh&theme=dark&layout=compact)](https://github.com/Creator-singh/github-readme-stats)
+
+</br>
+
+[![GitHub Creator-singh](https://img.shields.io/github/followers/Creator-singh?label=follow&style=social)](https://github.com/Creator-singh)
+[![Linkedin: Gursimar Singh](https://img.shields.io/badge/-Gursimar%20Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/gursimar-singh-cu/)](https://in.linkedin.com/in/gursimar-singh-cu/)
+[![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/Gursimar_DEV?style=social)](https://twitter.com/Gursimar_DEV)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Creator-singh&left_color=gray&right_color=blue)
