@@ -8,6 +8,7 @@
 
 ## Github Stats-
 [![Gursimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Creator-singh&theme=dark&show_icons=true)](https://github.com/Creator-singh/)
+[![Gursimar's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Creator-singh&theme=dark)](https://github.com/Creator-singh/)
 
 </br>
 
