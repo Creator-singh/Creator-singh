@@ -1,4 +1,4 @@
-## Hey! I'm Gursimar Singh. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey! I'm Gursimar Singh. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 </br>
 
@@ -17,7 +17,7 @@
 
 # Github Trophy :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Creator-singh&column=3&margin-w=15&margin-h=15no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Creator-singh&column=3&margin-w=50&margin-h=15no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 </br>
 
